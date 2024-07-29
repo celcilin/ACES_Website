@@ -10,7 +10,7 @@ Clone the Repo In Your PC
 
 Use Command
 
-`git clone [<repo link>](https://github.com/celcilin/ACES_Website.git)`
+`git clone https://github.com/celcilin/ACES_Website.git`
 
 Before Clone Install Git In Your PC.
 
